@@ -12,12 +12,12 @@ body {
 .wrapper {
   background: #fff;
   display: flex;
+  height: 1754px;
 }
 /*-----SIDEBAR-----*/
 .sidebar {
   background-color: #1e2939;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding: 40px 0;
   width: 370px;
 }
 .text-bold {
@@ -84,7 +84,7 @@ img {
 
 /*-----ABOUT ME-----*/
 .about-me-cont {
-  padding: 110px 90px;
+  margin: auto;
   width: 560px;
 }
 .main-text {
